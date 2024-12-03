@@ -18,6 +18,7 @@
 ###   ●	Mini Drafter.
 ###   ●	Geometry instruments.
 
+
 ## PROCEDURE:
 ###  Configuration diagram
 ###  Assume scale 1:10
@@ -45,10 +46,10 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
+
 ## Output
 
 ![328175398-c60d9e61-668d-453e-b0ff-e66e3442b9dd](https://github.com/user-attachments/assets/0527e1ee-7623-4748-abb8-a701468810e4)
-
 
 
 ### Name: Jeevika R

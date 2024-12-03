@@ -7,6 +7,8 @@
 ###   An engine mechanism is shown. The Crank CB = 200mm and the connecting rod BA = 600mm. In the position shown, the crankshaft has a speed of 50 rad/s and an angular acceleration of 800 rad/s2
 
 
+
+
 ## REQUIREMENTS:
 ###   ●	Mech Analyzer software.
 ###   ●	Processor: Minimum 1.5 GHz
